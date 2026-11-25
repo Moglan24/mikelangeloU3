@@ -21,10 +21,10 @@ npm.cmd test
 
 ## Deploy to Vercel
 
-The deployed site is static and does not need a database, environment variables, or a Vercel server function. `vercel.json` points Vercel to the `public` output directory.
+The deployed site is static and does not need a database, environment variables, or a Vercel server function. `vercel.json` selects the **Other** framework preset, disables the build command, and points Vercel to the `public` output directory.
 
 1. Import this project into Vercel from your Git repository, or install the Vercel CLI and run `vercel` from the project directory.
-2. Leave the framework preset as **Other** and the output directory as **public** (already configured).
+2. Keep the framework preset as **Other** and the output directory as **public** (already configured).
 3. Deploy. No build command or environment variables are required.
 
 Favorites and bookmarks are per-browser and do not sync between devices. Discussions are public and read-only; to publish a discussion snapshot, update `public/discussions.json` in the repository and redeploy. The old SQLite-backed account and write APIs are not part of the Vercel static deployment.
