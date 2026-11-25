@@ -1,0 +1,62 @@
+[
+  {
+    "id": "egyptian-blue",
+    "title": "The blue that outlasted an empire",
+    "category": "Material culture",
+    "theme": "egypt",
+    "themeLabel": "Ancient worlds",
+    "summary": "How a brilliant synthetic pigment traveled from ancient Egyptian workshops into the art and architecture of the Mediterranean.",
+    "content": "Egyptian blue is one of the earliest known synthetic pigments. Artisans combined silica, lime, copper, and an alkali, then fired the mixture to create a vivid, durable blue. The pigment appeared on statues, wall paintings, coffins, and everyday objects. Its production reveals the close relationship between craft knowledge, trade, and visual culture in the ancient world.\n\nResearchers study tiny pigment samples with non-invasive imaging and chemical analysis. The evidence can help identify workshop practices, restoration history, and the movement of materials between regions. Even a small fragment can hold clues about the people who made and used it.",
+    "readMinutes": 6,
+    "source": "The Metropolitan Museum of Art · Heilbrunn Timeline of Art History",
+    "featured": true
+  },
+  {
+    "id": "coral-archives",
+    "title": "Coral reefs as living archives",
+    "category": "Marine science",
+    "theme": "ocean",
+    "themeLabel": "Ocean studies",
+    "summary": "Reading the rings inside coral skeletons to reconstruct ocean temperatures and environmental change.",
+    "content": "Like trees, many corals build repeating growth bands. Their skeletons preserve chemical signals from the water in which they grew. By comparing these signals with modern measurements, researchers can estimate past sea-surface temperatures and investigate how reef environments changed over time.\n\nA coral core is only one part of the evidence. Field observations, satellite records, and local ecological knowledge help researchers understand what those chemical patterns mean and how reefs respond to stress.",
+    "readMinutes": 8,
+    "source": "NOAA Ocean Service · Coral Reef Conservation Program",
+    "featured": true
+  },
+  {
+    "id": "moon-water",
+    "title": "Following water across the Moon",
+    "category": "Planetary science",
+    "theme": "space",
+    "themeLabel": "Space science",
+    "summary": "What lunar orbiters and landers have taught scientists about water ice in permanently shadowed regions.",
+    "content": "The Moon's poles contain craters whose interiors receive little or no direct sunlight. Instruments on orbiting spacecraft have detected evidence consistent with water ice in these cold traps. Mapping where the signals appear—and how strong they are—helps scientists form better questions about the origin and distribution of lunar volatiles.\n\nRemote sensing is an indirect method: instruments measure reflected light or particles rather than collecting every sample. Mission teams combine multiple measurements and ground-truthing to test competing explanations.",
+    "readMinutes": 7,
+    "source": "NASA Science · Moon: Water and Ice",
+    "featured": true
+  },
+  {
+    "id": "forest-mycorrhiza",
+    "title": "The hidden partnerships beneath a forest",
+    "category": "Ecology",
+    "theme": "forest",
+    "themeLabel": "Ecology",
+    "summary": "Exploring the intricate relationships between tree roots and mycorrhizal fungi.",
+    "content": "Many plants associate with mycorrhizal fungi that extend the reach of their roots. These relationships can help plants acquire nutrients and water, while fungi receive carbon compounds from their hosts. The details vary by species and ecosystem, so the familiar image of a single, cooperative 'wood-wide web' can oversimplify a much more complex picture.\n\nField ecologists combine soil sampling, experiments, and molecular tools to understand which organisms interact, under what conditions, and with what consequences for forest communities.",
+    "readMinutes": 5,
+    "source": "Smithsonian Environmental Research Center · Forest Ecology",
+    "featured": false
+  },
+  {
+    "id": "alexandria-library",
+    "title": "The Library of Alexandria: evidence and legend",
+    "category": "History of knowledge",
+    "theme": "history",
+    "themeLabel": "History",
+    "summary": "Separating what ancient sources tell us from the popular story of one catastrophic fire.",
+    "content": "The ancient Library of Alexandria has become a symbol of knowledge lost. Historical accounts, however, describe several events and institutions across different periods rather than one simple moment of destruction. Scholars compare classical texts, archaeological evidence, and later retellings to understand how the library functioned and why its story changed over time.\n\nGood historical investigation makes uncertainty visible. Where sources conflict or go silent, careful researchers identify what can be supported, what remains debated, and whose perspectives have been preserved.",
+    "readMinutes": 9,
+    "source": "World History Encyclopedia · Library of Alexandria",
+    "featured": false
+  }
+]

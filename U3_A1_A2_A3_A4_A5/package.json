@@ -1,0 +1,15 @@
+{
+  "name": "fieldnotes-research-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A public, read-only research notebook deployable as a static site.",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env server.js",
+    "start": "node --env-file-if-exists=.env server.js",
+    "test": "node --test",
+    "check": "node --check server.js && node --check public/app.js && node --check test/server.test.js"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
